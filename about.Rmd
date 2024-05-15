@@ -1,0 +1,7 @@
+navbar:
+  title: "Your Website Name"
+  left:
+    - text: "Home"
+      href: "index.html"
+    - text: "About"
+      href: "about.html"  # Update this to match the filename of your about page
