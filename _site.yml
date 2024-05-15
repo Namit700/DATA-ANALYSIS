@@ -1,0 +1,14 @@
+name: "Your Website Name"
+output_dir: "docs"
+navbar:
+  title: "Your Website Name"
+  left:
+    - text: "Home"
+      href: "index.html"
+    - text: "About"
+      href: "about.html"
+output:
+  html_document:
+    theme: "bootstrap"
+    toc: true
+    toc_float: true
