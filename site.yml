@@ -1,7 +1,7 @@
-name: "Your Website Name"
+name: "DATA ANALYSIS"
 output_dir: "docs"
 navbar:
-  title: "Your Website Name"
+  title: "DATA ANALYSIS"
   left:
     - text: "Home"
       href: "index.html"
